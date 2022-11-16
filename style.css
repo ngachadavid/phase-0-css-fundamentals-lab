@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{text-align: center;}
+nav{text-align: center;}
+img{text-align: center;}
+figcaption{text-align: center;}
+p{text-align: center;}
+h3{text-align: left;}
+section{position: relative;}
+#details div{ 
+float: left;
+width: 25%;
+background-color: red;
+}
+#featured-property{
+  width: 50%;
+  margin: 0 auto;
+}
+p{
+  width:75%;
+  margin: 0 auto;
+}
+h3{text-align: center;}
+
